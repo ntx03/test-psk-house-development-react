@@ -1,0 +1,8 @@
+.App {
+  max-width: 1440px;
+  display: flex;
+  gap: 30px;
+  margin: 0px auto 0px auto;
+  flex-wrap: wrap;
+  font-family: 'Courier New', Courier, monospace;
+}
